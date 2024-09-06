@@ -12,6 +12,10 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 'images.pexels.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'thoughtful-cows-a8daa43ffc.media.strapiapp.com',
       }
     ],
   },
